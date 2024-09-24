@@ -12,7 +12,7 @@ Aplicação desenvolvida no NLW Journey da Rocketseat na trilha HTML+CSS+JS.
 </p>
 
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -20,6 +20,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-## Projeto
+## 💡 Projeto
 
 Nesse projeto foi desenvolvido uma versão simplificada de um sistema de roteiro de viagem!
+
+## ⚙️ Funcionalidades principais:
+
+- Adição de atividades no roteiro
+- Visualização e check-in de atividades durante a viagem
+- Interface limpa e responsiva
